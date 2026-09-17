@@ -1,0 +1,6 @@
+planta_id,nombre,ubicacion,zona_climatica,fecha_puesta_marcha
+1,Planta Norte,Salta,Cálido seco,2018-03-01
+2,Planta Litoral,Santa Fe,Templado húmedo,2016-06-15
+3,Planta Patagonia,Neuquén,Frío árido,2019-11-01
+4,Planta Centro,Córdoba,Templado,2015-01-20
+5,Planta Bonaerense,Buenos Aires,Templado húmedo,2020-02-10

@@ -1,0 +1,16 @@
+repuesto_id,nombre,tipo,unidad_medida,costo_unitario
+1,Rodamiento estándar,repuesto,unidad,45000
+2,Aceite dieléctrico,insumo,litro,3200
+3,Aceite lubricante industrial,insumo,litro,2800
+4,Correa transportadora,repuesto,unidad,180000
+5,Sello mecánico,repuesto,unidad,32000
+6,Filtro de aire,insumo,unidad,8500
+7,Filtro de aceite,insumo,unidad,9500
+8,Fusible de potencia,repuesto,unidad,15000
+9,Contactor eléctrico,repuesto,unidad,60000
+10,Bobinado de repuesto,repuesto,unidad,250000
+11,Grasa industrial,insumo,kg,4200
+12,Manguera hidráulica,repuesto,metro,12000
+13,Válvula de repuesto,repuesto,unidad,95000
+14,Kit de sellos hidráulicos,repuesto,unidad,55000
+15,Cable eléctrico,insumo,metro,2500

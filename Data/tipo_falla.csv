@@ -1,0 +1,15 @@
+tipo_falla_id,descripcion
+1,Desgaste mecánico
+2,Sobrecalentamiento
+3,Cortocircuito
+4,Fuga de fluido
+5,Vibración excesiva
+6,Falla de aislación
+7,Obstrucción / atascamiento
+8,Corrosión
+9,Falla de lubricación
+10,Falla de rodamiento
+11,Error de programación/control
+12,Rotura estructural
+13,Fin de vida útil
+14,Mantenimiento programado (sin falla)

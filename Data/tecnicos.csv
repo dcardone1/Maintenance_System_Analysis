@@ -1,0 +1,38 @@
+tecnico_id,planta_id,nombre,especialidad,fecha_ingreso,estado
+1,1,Thiago Nicolas Martinez Fernandez,Electrónico/Control,2018-12-14,activo
+2,1,Sr(a). Salvador Gonzalez,Eléctrico,2011-06-09,activo
+3,1,Juan Bautista Martina Diaz,Eléctrico,2011-04-25,activo
+4,1,Dr(a). Delfina Nuñez,Mecánico,2019-02-05,activo
+5,1,Alejo Fernandez Flores,Hidráulico,2021-05-01,activo
+6,1,Maximiliano Alma Gomez,Electrónico/Control,2013-11-21,activo
+7,2,Juan Martin Micaela Ojeda Rojas,General,2011-05-10,activo
+8,2,Bautista Garcia,Eléctrico,2023-08-16,activo
+9,2,Dante Federico Gonzalez Martinez,Mecánico,2018-10-20,activo
+10,2,Ian Aguero Alvarez,Eléctrico,2014-01-19,activo
+11,2,Mateo Benicio Carrizo Quiroga,Mecánico,2016-05-07,activo
+12,2,Tomas Lopez Ojeda,General,2019-07-27,activo
+13,2,Victoria Blanco,Hidráulico,2012-04-15,activo
+14,3,Ramiro Valentina Jazmin Ramos,Mecánico,2019-08-20,activo
+15,3,Luciana Ruiz Rodriguez,General,2013-03-17,activo
+16,3,Dr(a). Delfina Aguirre,Mecánico,2022-10-13,activo
+17,3,Felipe Fernandez,Eléctrico,2022-05-21,activo
+18,3,Dr(a). Thiago Valentin Flores,Mecánico,2020-06-06,activo
+19,3,Delfina Mateo Joaquin Gimenez Gomez,Eléctrico,2018-03-03,activo
+20,3,Felipe Fernandez Peralta,Eléctrico,2010-08-29,activo
+21,3,Olivia Franco,Eléctrico,2018-05-08,activo
+22,3,Sr(a). Thiago Ezequiel Gomez,Mecánico,2017-05-29,activo
+23,4,Camilo Alma Garcia Fernandez,Hidráulico,2022-05-21,activo
+24,4,Emanuel Paulina Gimenez Gomez,Mecánico,2010-01-17,activo
+25,4,Sr(a). Felipe Coronel,Mecánico,2018-10-03,activo
+26,4,Sr(a). Matias Suarez,General,2017-07-20,activo
+27,4,Emiliano Ludmila Sanchez Rodriguez,Electrónico/Control,2011-07-26,activo
+28,4,Catalina Suarez Rodriguez,Mecánico,2022-04-17,activo
+29,4,Valentino Agustin Molina,Eléctrico,2020-08-24,activo
+30,4,Dr(a). Ciro Benjamin Soria,Electrónico/Control,2013-09-17,activo
+31,5,Luz Milagros Camila Carrizo,Mecánico,2020-07-28,activo
+32,5,Dr(a). Juan Ignacio Martinez,General,2015-03-25,activo
+33,5,Sr(a). Salvador Gonzalez,Mecánico,2014-09-25,activo
+34,5,Francisco Barrios Mendez,Hidráulico,2019-11-29,activo
+35,5,Victoria Pilar Rojas,Mecánico,2010-12-29,activo
+36,5,Dr(a). Emma Herrera,Hidráulico,2020-02-16,activo
+37,5,Catalina Benitez Flores,Eléctrico,2015-09-13,activo

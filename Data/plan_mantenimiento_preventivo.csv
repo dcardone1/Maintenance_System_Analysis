@@ -1,0 +1,26 @@
+plan_id,tipo_activo_id,descripcion_tarea,frecuencia_tipo,frecuencia_valor,plazo_cumplimiento_dias
+1,8,Análisis de aceite dieléctrico,anual,1,30
+2,8,Inspección termográfica,mensual,3,15
+3,9,Cambio de aceite y filtros,por_horas_uso,500,15
+4,9,Prueba de arranque en vacío,mensual,1,7
+5,5,Lubricación de rodamientos,por_horas_uso,2000,15
+6,5,Medición de vibración,mensual,1,10
+7,4,Inspección de escobillas,mensual,2,10
+8,6,Cambio de aceite,por_horas_uso,250,10
+9,6,Cambio de filtros,por_horas_uso,500,10
+10,7,Inspección de sellos,mensual,2,15
+11,2,Lubricación y alineación,por_horas_uso,1500,15
+12,3,Cambio de aceite hidráulico,por_horas_uso,1000,15
+13,10,Inspección de fugas,mensual,1,10
+14,11,Cambio de filtros de aire,por_horas_uso,1000,10
+15,11,Purga de condensado,semanal,1,5
+16,12,Cambio de aceite,por_horas_uso,800,10
+17,13,Inspección de correa y rodillos,semanal,1,5
+18,14,Limpieza de disipadores,mensual,3,15
+19,15,Termografía y ajuste de bornes,anual,1,30
+20,16,Backup de programa y calibración,anual,1,20
+21,17,Prueba de apertura/cierre,mensual,2,10
+22,18,Lubricación de vástago,mensual,2,10
+23,19,Inspección de cables y frenos,mensual,1,7
+24,19,Parada de planta - revisión mayor,por_parada_planta,1,10
+25,20,Inspección de cable y gancho,mensual,1,7

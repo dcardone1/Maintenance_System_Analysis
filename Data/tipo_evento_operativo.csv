@@ -1,0 +1,30 @@
+tipo_evento_id,nombre
+1,PARADA
+2,parada_planta
+3,STOP
+4,Parada por falla
+5,parada prog.
+6,ARRANQUE
+7,arranque_planta
+8,START
+9,puesta en marcha
+10,drenaje
+11,DRENAJE LN2
+12,purga
+13,PURGA VALVULA
+14,limpieza filtros
+15,ALARMA TEMP
+16,disparo_termico
+17,proteccion activada
+18,ALARM_HIGH_PRESS
+19,cambio_turno
+20,CAMBIO DE TURNO
+21,ajuste_setpoint
+22,cambio de producto
+23,corte_suministro
+24,CORTE ELECTRICO EXTERNO
+25,falta de agua
+26,corte gas
+27,producto_fuera_especificacion
+28,PARO POR CALIDAD
+29,merma

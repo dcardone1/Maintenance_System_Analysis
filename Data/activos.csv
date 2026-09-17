@@ -1,0 +1,147 @@
+activo_id,padre_id,planta_id,tipo_activo_id,codigo,nivel_jerarquico,posicion_relativa,numero_serie,reemplaza_a,criticidad,fecha_alta,estado,caracteristicas
+1,,1,1,AREA-1,1,N/A (nodo de área),,,Media,2018-03-01,activo,{}
+2,1.0,1,20,EQ-2,2,fondo del galpón,M-46976,,Media,2018-03-01,activo,{}
+3,1.0,1,19,EQ-3,2,Rack 3,PG-81610,,Alta,2018-03-01,activo,{}
+4,1.0,1,19,EQ-4,2,PASILLO 2,PG-60804,,Media,2018-03-01,activo,{}
+5,1.0,1,20,EQ-5,2,junto a bomba anterior,M-18750,,Baja,2018-03-01,activo,{}
+6,1.0,1,19,EQ-6,2,al lado de la puerta,PG-85751,,Alta,2018-03-01,activo,{}
+7,1.0,1,19,EQ-7,2,junto a bomba anterior,PG-84945,,Alta,2018-03-01,activo,{}
+8,1.0,1,19,EQ-8,2,s/d,PG-52440,,Baja,2018-03-01,activo,{}
+9,,1,1,AREA-9,1,N/A (nodo de área),,,Media,2018-03-01,activo,{}
+10,9.0,1,14,EQ-10,2,sector 1 izq,VDF-22581,,Alta,2018-03-01,activo,"{""voltaje_v"": 660, ""potencia_kw"": 238.2, ""modelo"": ""MOD-700"", ""numero_parte"": ""NP86956""}"
+11,9.0,1,14,EQ-11,2,Rack 4,VDF-61713,,Media,2018-03-01,activo,"{""voltaje_v"": 6600, ""potencia_kw"": 281.8, ""modelo"": ""MOD-814"", ""numero_parte"": ""NP37355""}"
+12,9.0,1,17,EQ-12,2,al lado del tablero ppal,E-49304,,Alta,2018-03-01,activo,"{""voltaje_v"": 380, ""potencia_kw"": 427.4, ""modelo"": ""MOD-467"", ""numero_parte"": ""NP13122""}"
+13,9.0,1,5,EQ-13,2,detrás del compresor,MEA-87009,,Alta,2018-03-01,activo,"{""voltaje_v"": 380, ""potencia_kw"": 332.6, ""modelo"": ""MOD-213"", ""numero_parte"": ""NP60132""}"
+14,9.0,1,14,EQ-14,2,s/d,VDF-69787,,Media,2018-03-01,activo,"{""voltaje_v"": 660, ""potencia_kw"": 87.7, ""modelo"": ""MOD-831"", ""numero_parte"": ""NP40085""}"
+15,9.0,1,13,EQ-15,2,Rack 1,CT-79438,,Media,2018-03-01,activo,{}
+16,,1,1,AREA-16,1,N/A (nodo de área),,,Media,2018-03-01,activo,{}
+17,16.0,1,18,EQ-17,2,cerca ventana norte,VE-55093,,Alta,2018-03-01,activo,{}
+18,16.0,1,5,EQ-18,2,esquina NE,MEA-50153,,Media,2018-03-01,activo,"{""voltaje_v"": 380, ""potencia_kw"": 317.0, ""modelo"": ""MOD-371"", ""numero_parte"": ""NP64647""}"
+19,16.0,1,5,EQ-19,2,entrada principal,MEA-40832,,Baja,2018-03-01,activo,"{""voltaje_v"": 220, ""potencia_kw"": 454.7, ""modelo"": ""MOD-545"", ""numero_parte"": ""NP72972""}"
+20,16.0,1,5,EQ-20,2,jaula 4,MEA-97224,,Baja,2018-03-01,activo,"{""voltaje_v"": 380, ""potencia_kw"": 227.4, ""modelo"": ""MOD-744"", ""numero_parte"": ""NP76322""}"
+21,16.0,1,3,EQ-21,2,Rack 1,BH-50231,,Media,2018-03-01,activo,"{""caudal_m3h"": 17.8, ""presion_bar"": 83.4, ""modelo"": ""MOD-911"", ""numero_parte"": ""NP82778""}"
+22,16.0,1,4,EQ-22,2,sector 1 izq,MEC-51688,,Baja,2018-03-01,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 361.1, ""modelo"": ""MOD-696"", ""numero_parte"": ""NP48887""}"
+23,,1,1,AREA-23,1,N/A (nodo de área),,,Media,2018-03-01,activo,{}
+24,23.0,1,7,EQ-24,2,Rack 3,MH-18522,,Alta,2018-03-01,activo,"{""caudal_m3h"": 34.4, ""presion_bar"": 20.0, ""modelo"": ""MOD-684"", ""numero_parte"": ""NP26150""}"
+25,23.0,1,20,EQ-25,2,cerca ventana norte,M-69453,,Alta,2018-03-01,activo,{}
+26,23.0,1,19,EQ-26,2,cerca ventana norte,PG-81412,,Baja,2018-03-01,activo,{}
+27,23.0,1,19,EQ-27,2,al lado de la puerta,PG-65120,,Alta,2018-03-01,activo,{}
+28,,1,1,AREA-28,1,N/A (nodo de área),,,Media,2018-03-01,activo,{}
+29,28.0,1,4,EQ-29,2,al lado de la puerta,MEC-80445,,Alta,2018-03-01,activo,"{""voltaje_v"": 380, ""potencia_kw"": 247.9, ""modelo"": ""MOD-537"", ""numero_parte"": ""NP49704""}"
+30,28.0,1,9,EQ-30,2,cerca ventana norte,GE-58801,,Alta,2018-03-01,activo,"{""voltaje_v"": 660, ""potencia_kw"": 169.1, ""modelo"": ""MOD-589"", ""numero_parte"": ""NP56859""}"
+31,28.0,1,9,EQ-31,2,al lado de la puerta,GE-11945,,Baja,2018-03-01,activo,"{""voltaje_v"": 220, ""potencia_kw"": 74.4, ""modelo"": ""MOD-905"", ""numero_parte"": ""NP37195""}"
+32,28.0,1,6,EQ-32,2,PASILLO 1,MD-69938,,Alta,2018-03-01,activo,"{""potencia_hp"": 280.8, ""combustible"": ""diesel"", ""modelo"": ""MOD-704"", ""numero_parte"": ""NP75725""}"
+33,28.0,1,6,EQ-33,2,entrada principal,MD-38860,,Baja,2018-03-01,activo,"{""potencia_hp"": 130.6, ""combustible"": ""diesel"", ""modelo"": ""MOD-196"", ""numero_parte"": ""NP31280""}"
+34,,1,1,AREA-34,1,N/A (nodo de área),,,Media,2018-03-01,activo,{}
+35,34.0,1,13,EQ-35,2,sector 3 izq,CT-43382,,Baja,2018-03-01,activo,{}
+36,34.0,1,14,EQ-36,2,detrás del compresor,VDF-38542,,Baja,2018-03-01,activo,"{""voltaje_v"": 6600, ""potencia_kw"": 260.0, ""modelo"": ""MOD-361"", ""numero_parte"": ""NP91496""}"
+37,34.0,1,5,EQ-37,2,entrada principal,MEA-26262,,Alta,2018-03-01,activo,"{""voltaje_v"": 220, ""potencia_kw"": 220.4, ""modelo"": ""MOD-971"", ""numero_parte"": ""NP99312""}"
+38,,2,1,AREA-38,1,N/A (nodo de área),,,Media,2016-06-15,activo,{}
+39,38.0,2,20,EQ-39,2,al lado de la puerta,M-11990,,Media,2016-06-15,activo,{}
+40,38.0,2,20,EQ-40,2,fondo del galpón,M-89765,,Media,2016-06-15,activo,{}
+41,38.0,2,19,EQ-41,2,fondo del galpón,PG-10477,,Alta,2016-06-15,activo,{}
+42,41.0,2,20,SUB-42,3,entrada principal,M-84799,,Alta,2016-06-15,activo,{}
+43,,2,1,AREA-43,1,N/A (nodo de área),,,Media,2016-06-15,activo,{}
+44,43.0,2,5,EQ-44,2,fondo del galpón,MEA-74792,,Alta,2016-06-15,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 158.6, ""modelo"": ""MOD-997"", ""numero_parte"": ""NP79965""}"
+45,43.0,2,4,EQ-45,2,entrada principal,MEC-55066,,Alta,2016-06-15,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 118.7, ""modelo"": ""MOD-112"", ""numero_parte"": ""NP35136""}"
+46,43.0,2,5,EQ-46,2,al lado del tablero ppal,MEA-97236,,Media,2016-06-15,activo,"{""voltaje_v"": 220, ""potencia_kw"": 348.7, ""modelo"": ""MOD-788"", ""numero_parte"": ""NP62299""}"
+47,43.0,2,4,EQ-47,2,cerca ventana norte,MEC-82370,,Media,2016-06-15,activo,"{""voltaje_v"": 220, ""potencia_kw"": 69.9, ""modelo"": ""MOD-764"", ""numero_parte"": ""NP49044""}"
+48,43.0,2,5,EQ-48,2,sector 5 izq,MEA-17278,,Media,2016-06-15,activo,"{""voltaje_v"": 380, ""potencia_kw"": 246.8, ""modelo"": ""MOD-557"", ""numero_parte"": ""NP69657""}"
+49,43.0,2,4,EQ-49,2,entrada principal,MEC-35779,,Baja,2016-06-15,activo,"{""voltaje_v"": 660, ""potencia_kw"": 279.8, ""modelo"": ""MOD-122"", ""numero_parte"": ""NP23338""}"
+50,,2,1,AREA-50,1,N/A (nodo de área),,,Media,2016-06-15,activo,{}
+51,50.0,2,16,EQ-51,2,Rack 4,TDC-22630,,Media,2016-06-15,activo,"{""voltaje_v"": 220, ""potencia_kw"": 300.0, ""modelo"": ""MOD-968"", ""numero_parte"": ""NP26331""}"
+52,50.0,2,16,EQ-52,2,al lado de la puerta,TDC-67086,,Alta,2016-06-15,activo,"{""voltaje_v"": 6600, ""potencia_kw"": 59.0, ""modelo"": ""MOD-358"", ""numero_parte"": ""NP84647""}"
+53,50.0,2,12,EQ-53,2,jaula 2,CAP-57768,,Media,2016-06-15,activo,{}
+54,50.0,2,16,EQ-54,2,"nivel superior, sala 4",TDC-64279,,Media,2016-06-15,activo,"{""voltaje_v"": 220, ""potencia_kw"": 215.8, ""modelo"": ""MOD-436"", ""numero_parte"": ""NP20235""}"
+55,50.0,2,5,EQ-55,2,jaula 3,MEA-57790,,Alta,2016-06-15,activo,"{""voltaje_v"": 380, ""potencia_kw"": 374.3, ""modelo"": ""MOD-855"", ""numero_parte"": ""NP83490""}"
+56,50.0,2,16,EQ-56,2,Rack 5,TDC-15990,,Media,2016-06-15,activo,"{""voltaje_v"": 380, ""potencia_kw"": 413.2, ""modelo"": ""MOD-231"", ""numero_parte"": ""NP38684""}"
+57,56.0,2,14,SUB-57,3,PASILLO 5,VDF-92886,,Alta,2016-06-15,activo,"{""voltaje_v"": 220, ""potencia_kw"": 81.0, ""modelo"": ""MOD-355"", ""numero_parte"": ""NP51008""}"
+58,,2,1,AREA-58,1,N/A (nodo de área),,,Media,2016-06-15,activo,{}
+59,58.0,2,4,EQ-59,2,al lado del tablero ppal,MEC-14985,,Alta,2016-06-15,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 297.6, ""modelo"": ""MOD-147"", ""numero_parte"": ""NP56439""}"
+60,58.0,2,18,EQ-60,2,detrás del compresor,VE-84538,,Media,2016-06-15,activo,{}
+61,58.0,2,3,EQ-61,2,s/d,BH-81337,,Alta,2016-06-15,activo,"{""caudal_m3h"": 16.2, ""presion_bar"": 66.8, ""modelo"": ""MOD-865"", ""numero_parte"": ""NP30526""}"
+62,,3,1,AREA-62,1,N/A (nodo de área),,,Media,2019-11-01,activo,{}
+63,62.0,3,10,EQ-63,2,sector 5 izq,PH-19150,,Baja,2019-11-01,activo,"{""caudal_m3h"": 6.1, ""presion_bar"": 232.0, ""modelo"": ""MOD-719"", ""numero_parte"": ""NP18920""}"
+64,62.0,3,10,EQ-64,2,detrás del compresor,PH-91237,,Baja,2019-11-01,activo,"{""caudal_m3h"": 64.6, ""presion_bar"": 197.1, ""modelo"": ""MOD-664"", ""numero_parte"": ""NP67822""}"
+65,62.0,3,7,EQ-65,2,s/d,MH-22109,,Media,2019-11-01,activo,"{""caudal_m3h"": 42.1, ""presion_bar"": 215.8, ""modelo"": ""MOD-849"", ""numero_parte"": ""NP51651""}"
+66,62.0,3,10,EQ-66,2,fondo del galpón,PH-67560,,Alta,2019-11-01,activo,"{""caudal_m3h"": 12.9, ""presion_bar"": 124.7, ""modelo"": ""MOD-248"", ""numero_parte"": ""NP47519""}"
+67,,3,1,AREA-67,1,N/A (nodo de área),,,Media,2019-11-01,activo,{}
+68,67.0,3,3,EQ-68,2,PASILLO 2,BH-55454,,Media,2019-11-01,activo,"{""caudal_m3h"": 31.6, ""presion_bar"": 174.6, ""modelo"": ""MOD-429"", ""numero_parte"": ""NP31189""}"
+69,67.0,3,3,EQ-69,2,detrás del compresor,BH-70375,,Media,2019-11-01,activo,"{""caudal_m3h"": 27.6, ""presion_bar"": 138.5, ""modelo"": ""MOD-923"", ""numero_parte"": ""NP96443""}"
+70,67.0,3,17,EQ-70,2,al lado de la puerta,E-28211,,Media,2019-11-01,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 318.3, ""modelo"": ""MOD-165"", ""numero_parte"": ""NP35933""}"
+71,67.0,3,3,EQ-71,2,s/d,BH-28216,,Media,2019-11-01,activo,"{""caudal_m3h"": 69.1, ""presion_bar"": 41.7, ""modelo"": ""MOD-956"", ""numero_parte"": ""NP65293""}"
+72,67.0,3,4,EQ-72,2,Rack 4,MEC-75313,,Alta,2019-11-01,activo,"{""voltaje_v"": 660, ""potencia_kw"": 73.0, ""modelo"": ""MOD-941"", ""numero_parte"": ""NP96393""}"
+73,67.0,3,17,EQ-73,2,cerca ventana norte,E-46604,,Baja,2019-11-01,activo,"{""voltaje_v"": 660, ""potencia_kw"": 398.6, ""modelo"": ""MOD-937"", ""numero_parte"": ""NP95141""}"
+74,,3,1,AREA-74,1,N/A (nodo de área),,,Media,2019-11-01,activo,{}
+75,74.0,3,5,EQ-75,2,s/d,MEA-14513,,Media,2019-11-01,activo,"{""voltaje_v"": 220, ""potencia_kw"": 89.8, ""modelo"": ""MOD-216"", ""numero_parte"": ""NP60844""}"
+76,74.0,3,13,EQ-76,2,junto a bomba anterior,CT-51938,,Media,2019-11-01,activo,{}
+77,74.0,3,17,EQ-77,2,s/d,E-81931,,Media,2019-11-01,activo,"{""voltaje_v"": 380, ""potencia_kw"": 466.0, ""modelo"": ""MOD-639"", ""numero_parte"": ""NP86053""}"
+78,,3,1,AREA-78,1,N/A (nodo de área),,,Media,2019-11-01,activo,{}
+79,78.0,3,20,EQ-79,2,Rack 4,M-17893,,Media,2019-11-01,activo,{}
+80,78.0,3,20,EQ-80,2,fondo del galpón,M-79688,,Media,2019-11-01,activo,{}
+81,78.0,3,20,EQ-81,2,PASILLO 4,M-90852,,Baja,2019-11-01,activo,{}
+82,,4,1,AREA-82,1,N/A (nodo de área),,,Media,2015-01-20,activo,{}
+83,82.0,4,10,EQ-83,2,sector 3 izq,PH-76373,,Media,2015-01-20,activo,"{""caudal_m3h"": 45.1, ""presion_bar"": 234.7, ""modelo"": ""MOD-444"", ""numero_parte"": ""NP42470""}"
+84,82.0,4,10,EQ-84,2,junto a bomba anterior,PH-22593,,Baja,2015-01-20,activo,"{""caudal_m3h"": 58.0, ""presion_bar"": 238.3, ""modelo"": ""MOD-438"", ""numero_parte"": ""NP48141""}"
+85,82.0,4,19,EQ-85,2,jaula 5,PG-89013,,Alta,2015-01-20,activo,{}
+86,,4,1,AREA-86,1,N/A (nodo de área),,,Media,2015-01-20,activo,{}
+87,86.0,4,2,EQ-87,2,esquina NE,BC-11107,,Media,2015-01-20,activo,"{""caudal_m3h"": 66.4, ""presion_bar"": 80.9, ""modelo"": ""MOD-970"", ""numero_parte"": ""NP51268""}"
+88,86.0,4,2,EQ-88,2,PASILLO 3,BC-92658,,Baja,2015-01-20,activo,"{""caudal_m3h"": 10.6, ""presion_bar"": 249.3, ""modelo"": ""MOD-139"", ""numero_parte"": ""NP89127""}"
+89,88.0,4,5,SUB-89,3,s/d,MEA-13889,,Baja,2015-01-20,activo,"{""voltaje_v"": 220, ""potencia_kw"": 334.5, ""modelo"": ""MOD-222"", ""numero_parte"": ""NP68510""}"
+90,86.0,4,4,EQ-90,2,Rack 4,MEC-90732,,Alta,2015-01-20,activo,"{""voltaje_v"": 380, ""potencia_kw"": 75.8, ""modelo"": ""MOD-316"", ""numero_parte"": ""NP86890""}"
+91,86.0,4,18,EQ-91,2,detrás del compresor,VE-11311,,Media,2015-01-20,activo,{}
+92,86.0,4,17,EQ-92,2,"nivel superior, sala 1",E-10492,,Alta,2015-01-20,activo,"{""voltaje_v"": 220, ""potencia_kw"": 304.9, ""modelo"": ""MOD-981"", ""numero_parte"": ""NP82132""}"
+93,86.0,4,17,EQ-93,2,jaula 2,E-86445,,Alta,2015-01-20,activo,"{""voltaje_v"": 6600, ""potencia_kw"": 464.3, ""modelo"": ""MOD-820"", ""numero_parte"": ""NP20820""}"
+94,,4,1,AREA-94,1,N/A (nodo de área),,,Media,2015-01-20,activo,{}
+95,94.0,4,16,EQ-95,2,esquina NE,TDC-85417,,Alta,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 66.8, ""modelo"": ""MOD-281"", ""numero_parte"": ""NP72762""}"
+96,94.0,4,14,EQ-96,2,sector 4 izq,VDF-17742,,Alta,2015-01-20,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 368.6, ""modelo"": ""MOD-147"", ""numero_parte"": ""NP27373""}"
+97,94.0,4,13,EQ-97,2,jaula 1,CT-73890,,Baja,2015-01-20,activo,{}
+98,94.0,4,17,EQ-98,2,junto a bomba anterior,E-14904,,Media,2015-01-20,activo,"{""voltaje_v"": 220, ""potencia_kw"": 442.7, ""modelo"": ""MOD-138"", ""numero_parte"": ""NP51303""}"
+99,94.0,4,17,EQ-99,2,fondo del galpón,E-43403,,Alta,2015-01-20,activo,"{""voltaje_v"": 220, ""potencia_kw"": 490.1, ""modelo"": ""MOD-632"", ""numero_parte"": ""NP51269""}"
+100,94.0,4,14,EQ-100,2,s/d,VDF-67276,,Media,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 473.3, ""modelo"": ""MOD-230"", ""numero_parte"": ""NP58712""}"
+101,,4,1,AREA-101,1,N/A (nodo de área),,,Media,2015-01-20,activo,{}
+102,101.0,4,15,EQ-102,2,junto a bomba anterior,TDE-72979,,Media,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 78.5, ""modelo"": ""MOD-945"", ""numero_parte"": ""NP51548""}"
+103,101.0,4,9,EQ-103,2,esquina NE,GE-92233,,Alta,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 71.4, ""modelo"": ""MOD-952"", ""numero_parte"": ""NP35026""}"
+104,101.0,4,8,EQ-104,2,PASILLO 4,T-48510,,Media,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 208.8, ""modelo"": ""MOD-670"", ""numero_parte"": ""NP23809""}"
+105,101.0,4,15,EQ-105,2,detrás del compresor,TDE-95421,,Media,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 22.8, ""modelo"": ""MOD-368"", ""numero_parte"": ""NP47655""}"
+106,,4,1,AREA-106,1,N/A (nodo de área),,,Media,2015-01-20,activo,{}
+107,106.0,4,14,EQ-107,2,cerca ventana norte,VDF-18571,,Media,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 352.5, ""modelo"": ""MOD-591"", ""numero_parte"": ""NP68314""}"
+108,106.0,4,14,EQ-108,2,esquina NE,VDF-38458,,Baja,2015-01-20,activo,"{""voltaje_v"": 380, ""potencia_kw"": 218.6, ""modelo"": ""MOD-593"", ""numero_parte"": ""NP57669""}"
+109,106.0,4,17,EQ-109,2,sector 2 izq,E-96558,,Media,2015-01-20,activo,"{""voltaje_v"": 660, ""potencia_kw"": 443.8, ""modelo"": ""MOD-215"", ""numero_parte"": ""NP92894""}"
+110,106.0,4,19,EQ-110,2,sector 4 izq,PG-56824,,Baja,2015-01-20,activo,{}
+111,110.0,4,20,SUB-111,3,sector 5 izq,M-44552,,Alta,2015-01-20,activo,{}
+112,106.0,4,14,EQ-112,2,al lado del tablero ppal,VDF-88165,,Alta,2015-01-20,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 143.9, ""modelo"": ""MOD-608"", ""numero_parte"": ""NP40071""}"
+113,,5,1,AREA-113,1,N/A (nodo de área),,,Media,2020-02-10,activo,{}
+114,113.0,5,17,EQ-114,2,fondo del galpón,E-73825,,Media,2020-02-10,activo,"{""voltaje_v"": 220, ""potencia_kw"": 64.2, ""modelo"": ""MOD-556"", ""numero_parte"": ""NP42842""}"
+115,113.0,5,4,EQ-115,2,entrada principal,MEC-99590,,Baja,2020-02-10,activo,"{""voltaje_v"": 660, ""potencia_kw"": 345.4, ""modelo"": ""MOD-379"", ""numero_parte"": ""NP22965""}"
+116,113.0,5,18,EQ-116,2,s/d,VE-93307,,Alta,2020-02-10,activo,{}
+117,113.0,5,4,EQ-117,2,esquina NE,MEC-78086,,Alta,2020-02-10,activo,"{""voltaje_v"": 660, ""potencia_kw"": 87.1, ""modelo"": ""MOD-475"", ""numero_parte"": ""NP85266""}"
+118,113.0,5,17,EQ-118,2,entrada principal,E-60036,,Baja,2020-02-10,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 75.1, ""modelo"": ""MOD-990"", ""numero_parte"": ""NP55260""}"
+119,113.0,5,5,EQ-119,2,detrás del compresor,MEA-39573,,Baja,2020-02-10,activo,"{""voltaje_v"": 220, ""potencia_kw"": 219.7, ""modelo"": ""MOD-531"", ""numero_parte"": ""NP52238""}"
+120,,5,1,AREA-120,1,N/A (nodo de área),,,Media,2020-02-10,activo,{}
+121,120.0,5,8,EQ-121,2,PASILLO 1,T-31967,,Alta,2020-02-10,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 120.3, ""modelo"": ""MOD-273"", ""numero_parte"": ""NP36285""}"
+122,120.0,5,8,EQ-122,2,al lado de la puerta,T-62779,,Media,2020-02-10,activo,"{""voltaje_v"": 220, ""potencia_kw"": 125.6, ""modelo"": ""MOD-175"", ""numero_parte"": ""NP85651""}"
+123,120.0,5,14,EQ-123,2,detrás del compresor,VDF-60055,,Media,2020-02-10,activo,"{""voltaje_v"": 6600, ""potencia_kw"": 382.6, ""modelo"": ""MOD-651"", ""numero_parte"": ""NP15229""}"
+124,120.0,5,9,EQ-124,2,fondo del galpón,GE-58556,,Media,2020-02-10,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 243.9, ""modelo"": ""MOD-859"", ""numero_parte"": ""NP57820""}"
+125,120.0,5,14,EQ-125,2,esquina NE,VDF-43287,,Baja,2020-02-10,activo,"{""voltaje_v"": 660, ""potencia_kw"": 295.6, ""modelo"": ""MOD-208"", ""numero_parte"": ""NP86523""}"
+126,120.0,5,15,EQ-126,2,PASILLO 3,TDE-54893,,Media,2020-02-10,activo,"{""voltaje_v"": 660, ""potencia_kw"": 202.3, ""modelo"": ""MOD-194"", ""numero_parte"": ""NP99837""}"
+127,120.0,5,14,EQ-127,2,junto a bomba anterior,VDF-45234,,Media,2020-02-10,activo,"{""voltaje_v"": 220, ""potencia_kw"": 99.8, ""modelo"": ""MOD-332"", ""numero_parte"": ""NP12234""}"
+128,,5,1,AREA-128,1,N/A (nodo de área),,,Media,2020-02-10,activo,{}
+129,128.0,5,19,EQ-129,2,esquina NE,PG-47823,,Media,2020-02-10,activo,{}
+130,129.0,5,20,SUB-130,3,PASILLO 3,M-35021,,Baja,2020-02-10,activo,{}
+131,128.0,5,14,EQ-131,2,junto a bomba anterior,VDF-98361,,Media,2020-02-10,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 381.9, ""modelo"": ""MOD-529"", ""numero_parte"": ""NP68578""}"
+132,128.0,5,19,EQ-132,2,sector 4 izq,PG-35625,,Baja,2020-02-10,activo,{}
+133,128.0,5,19,EQ-133,2,Rack 1,PG-55639,,Media,2020-02-10,activo,{}
+134,128.0,5,17,EQ-134,2,entrada principal,E-47515,,Baja,2020-02-10,activo,"{""voltaje_v"": 13200, ""potencia_kw"": 147.7, ""modelo"": ""MOD-838"", ""numero_parte"": ""NP76037""}"
+135,128.0,5,19,EQ-135,2,s/d,PG-41184,,Alta,2020-02-10,activo,{}
+136,135.0,5,20,SUB-136,3,sector 4 izq,M-96691,,Baja,2020-02-10,activo,{}
+137,,5,1,AREA-137,1,N/A (nodo de área),,,Media,2020-02-10,activo,{}
+138,137.0,5,9,EQ-138,2,al lado de la puerta,GE-98011,,Media,2020-02-10,activo,"{""voltaje_v"": 220, ""potencia_kw"": 47.0, ""modelo"": ""MOD-813"", ""numero_parte"": ""NP29973""}"
+139,137.0,5,6,EQ-139,2,sector 5 izq,MD-33948,,Baja,2020-02-10,activo,"{""potencia_hp"": 62.9, ""combustible"": ""diesel"", ""modelo"": ""MOD-931"", ""numero_parte"": ""NP14954""}"
+140,137.0,5,4,EQ-140,2,entrada principal,MEC-43207,,Media,2020-02-10,activo,"{""voltaje_v"": 220, ""potencia_kw"": 358.1, ""modelo"": ""MOD-690"", ""numero_parte"": ""NP79634""}"
+141,137.0,5,5,EQ-141,2,"nivel superior, sala 4",MEA-76548,,Baja,2020-02-10,activo,"{""voltaje_v"": 380, ""potencia_kw"": 121.1, ""modelo"": ""MOD-144"", ""numero_parte"": ""NP19170""}"
+142,137.0,5,6,EQ-142,2,jaula 5,MD-49937,,Media,2020-02-10,activo,"{""potencia_hp"": 287.1, ""combustible"": ""diesel"", ""modelo"": ""MOD-104"", ""numero_parte"": ""NP57754""}"
+143,,5,1,AREA-143,1,N/A (nodo de área),,,Media,2020-02-10,activo,{}
+144,143.0,5,20,EQ-144,2,fondo del galpón,M-90606,,Media,2020-02-10,activo,{}
+145,143.0,5,19,EQ-145,2,jaula 3,PG-86749,,Media,2020-02-10,activo,{}
+146,143.0,5,20,EQ-146,2,PASILLO 4,M-63128,,Media,2020-02-10,activo,{}
