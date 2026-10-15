@@ -50,7 +50,7 @@ libstdcxx-ng              11.2.0               h1234567_1
 libuuid                   1.41.5               h5eee18b_0  
 libxcb                    1.17.0               h9b100fa_0  
 markupsafe                3.0.3                    pypi_0    pypi
-matplotlib                3.10.3                   pypi_0    pypi
+matplotlib                3.11.2                   pypi_0    pypi
 matplotlib-inline         0.1.7              pyhd8ed1ab_1    conda-forge
 ncurses                   6.4                  h6a678d5_0  
 nest-asyncio              1.6.0              pyhd8ed1ab_1    conda-forge
